@@ -1,0 +1,26 @@
+test_values:
+
+        Temperature	    L	            R	A_M	                Color	        Spectral_Class	            Type
+147	    14732	        0.00011	        0.00892	12.89	        white	        F	                        White Dwarf
+62	    2983	        0.00024	        0.09400	16.09	        Red	            M	                        Red Dwarf
+50	    3490	        270000.00000	1520.00000	-9.40	    Red	            M	                        Hyper Giant
+105	    14245	        231000.00000	42.00000	-6.12	    Blue	        O	                        Super Giant
+120	    3323	        0.00043	        0.09120	17.16	        Red	            M	                        Red Dwarf
+
+test_values_X:
+
+	    Temperature	    L	            R	            A_M
+147	    14732	        0.00011	        0.00892	        12.89
+62	    2983	        0.00024	        0.09400	        16.09
+50	    3490	        270000.00000	1520.00000	    -9.40
+105	    14245	        231000.00000	42.00000	    -6.12
+120	    3323	        0.00043	        0.09120	        17.16
+
+test_values_y:
+
+147    White Dwarf
+62       Red Dwarf
+50     Hyper Giant
+105    Super Giant
+120      Red Dwarf
+Name: Type, dtype: object
