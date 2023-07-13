@@ -1,1 +1,1 @@
-# Backend - Star Classifier
+# Star-Neo Classifier App
